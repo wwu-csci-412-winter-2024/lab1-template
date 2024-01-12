@@ -2,7 +2,9 @@
 
 ## About
 
-Name: [Please add your name]
+Name: Add your name here
+
+Demo: Add a screenshot of your project here and remove this line
 
 ## Description
 
