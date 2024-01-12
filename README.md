@@ -1,5 +1,9 @@
 # QR Code Mobile Application
 
+## About
+
+Name: [Please add your name]
+
 ## Description
 
 You will build a QR code mobile application in this project. The application will display a screen of a styled QR code on mobile devices that lead users to https://examplearn.com.
