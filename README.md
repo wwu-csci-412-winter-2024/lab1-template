@@ -1,17 +1,38 @@
-# Lab 1
+# QR Code Mobile Application
 
-Your name: XXX (Please replace this)
+## Description
 
-See [the expected design](./design/mobile-design.jpg) in the desig folder or below.
+You will build a QR code mobile application in this project. The application will display a screen of a styled QR code on mobile devices that lead users to https://examplearn.com.
 
-![design](./design/mobile-design.jpg)
+<img src="./demo/demo-1.png" width="500" />
 
-Please read more in [the style guide](./style-guide.md) about the sepcs of our design expectation. You can find [the Q-R code image](./assets/image-qr-code.png) in the assets folder.
+## Level
 
-Please try your best to make your app look the same as the expected design. When you finish, please do the following:
+Beginner
 
-1. commit and push your code
-2. add your name to this README file (see above)
-3. capture how your app looks locally in the simulated app on your machine
-4. put the captured image in the design folder
-5. edit this README file to display your captured image here in this README file (see the above displayed expected design as an example)
+## Tags
+
+Mobile, Responsive, QR Code
+
+## What you will build
+
+You will build a QR code mobile application in this project. The application is only composed of a single screen for mobile devices. The screen is styled with a title, a QR code, and a subtext. The QR code will lead users to https://examplearn.com.
+
+The screen should look consistent across different mobile devices. The screen should be responsive to different screen sizes as well. By building this project, you will learn how to structure and style a simple responsive mobile application.
+
+## Where to start
+
+To kick off this project, you can start with the following files:
+
+- `design.md`: This file contains the design specification.
+- `demo`: This folder contains a few demo images of the application.
+- `images`: This folder contains all the images you need for this project.
+- `fonts`: This folder contains all the fonts you need for this project.
+
+## What else you need to know about this project
+
+We recommend overwriting this `README.md` file with your own. To help you get started, we've provided [a template `README-template.md`](./README-template.md).
+
+You have the admin access to this repository. You can push your code to this repository, or transfer this repository to your own GitHub account.
+
+If possible, you should test your design on both iOS and Android devices.
